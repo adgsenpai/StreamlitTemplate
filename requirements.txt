@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+sqlserver
+matplotlib
+fastapi
